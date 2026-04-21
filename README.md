@@ -9,7 +9,7 @@ The sensor data is read using Arduino and displayed on the **Serial Monitor**.
 
 ---
 
-## 🛠️ Components Used -
+## 🛠️ Components Used - 
 
 - Arduino Uno R4 WiFi
 - DHT11 Temperature & Humidity Sensor
