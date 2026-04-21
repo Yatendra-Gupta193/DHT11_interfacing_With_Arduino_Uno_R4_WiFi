@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview -
 
-This project demonstrates how to interface a **DHT11 sensor** with the **Arduino Uno R4 WiFi** to measure
+This project demonstrates how to interface a **DHT11 sensor** with the **Arduino Uno R4 WiFi** to measure 
 real-time **temperature** and **humidity** of the surrounding environment.
 
 The sensor data is read using Arduino and displayed on the **Serial Monitor**.
