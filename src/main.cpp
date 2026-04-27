@@ -13,7 +13,7 @@ void setup() {
     Serial.begin(9600);
     dht.begin();
     Serial.println("DHT Sensor Initialized");
-
+ 
 }
 void loop() {
     // write your code here
